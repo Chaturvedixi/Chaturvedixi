@@ -1,4 +1,3 @@
-
 </head>
 <body>
   <h1>Hi, I'm Anubhav Chaturvedi 👋</h1>
@@ -18,23 +17,18 @@
 
   <div class="section">
     <h2>📱 Projects</h2>
-    <table>
-      <tr>
-        <th>Project Name</th>
-        <th>Description</th>
-        <th>Link</th>
-      </tr>
-      <tr>
-        <td>City Sights</td>
-        <td>A tourism app that helps users explore cities with integrated maps and places of interest.</td>
-        <td><a href="https://github.com/yourusername/city-sights" target="_blank">GitHub Repo</a></td>
-      </tr>
-      <tr>
-        <td>Kitchen Buddy</td>
-        <td>A recipe management app with search, favorites, and ingredient tracking features.</td>
-        <td><a href="https://github.com/yourusername/kitchen-buddy" target="_blank">GitHub Repo</a></td>
-      </tr>
-    </table>
+    <div class="projects-container">
+      <div class="project-card">
+        <h3>City Sights</h3>
+        <p>A tourism app that helps users explore cities with integrated maps and places of interest.</p>
+        <a href="https://github.com/yourusername/city-sights" target="_blank">GitHub Repo</a>
+      </div>
+      <div class="project-card">
+        <h3>Kitchen Buddy</h3>
+        <p>A recipe management app with search, favorites, and ingredient tracking features.</p>
+        <a href="https://github.com/yourusername/kitchen-buddy" target="_blank">GitHub Repo</a>
+      </div>
+    </div>
   </div>
 
   <div class="section">
@@ -55,4 +49,3 @@
   </div>
 </body>
 </html>
-
