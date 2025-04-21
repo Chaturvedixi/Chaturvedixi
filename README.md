@@ -1,4 +1,4 @@
-</style>
+
 </head>
 <body>
   <h1>Hi, I'm Anubhav Chaturvedi 👋</h1>
