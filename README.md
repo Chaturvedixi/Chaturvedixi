@@ -1,24 +1,40 @@
-
+</style>
+</head>
+<body>
   <h1>Hi, I'm Anubhav Chaturvedi 👋</h1>
-  <p>I'm an aspiring iOS developer passionate about building beautiful and functional apps using Swift and SwiftUI. I'm currently seeking internship opportunities where I can learn, grow, and contribute!</p>
+  <p>I'm an aspiring iOS developer from India, passionate about crafting smooth and intuitive mobile experiences using Swift and SwiftUI. Always eager to learn and collaborate on exciting projects!</p>
 
   <div class="section">
-    <h2>📱 Projects</h2>
-    <div class="project">
-      <h3>City Sights</h3>
-      <p>A simple iOS app to track your daily expenses. Built with SwiftUI and CoreData.</p>
-      <a href="https://github.com/yourusername/expense-tracker" target="_blank">GitHub Repo</a>
-    </div>
-    <div class="project">
-      <h3>Car Detailing App</h3>
-      <p>An app that lets users explore car brands and view details. Built with Swift and UIKit.</p>
-      <a href="https://github.com/yourusername/car-detailing-app" target="_blank">GitHub Repo</a>
+    <h2>🛠️ Skills</h2>
+    <div class="skills">
+      <p><strong>Languages & Tools:</strong></p>
+      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+      <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
+      <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit">
+      <img src="https://img.shields.io/badge/SwiftUI-5E5E5E?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftUI">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     </div>
   </div>
 
   <div class="section">
-    <h2>🛠️ Skills</h2>
-    <p>Swift, SwiftUI, UIKit, Firebase, CoreData, MVVM, REST APIs, Git & GitHub</p>
+    <h2>📱 Projects</h2>
+    <table>
+      <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+        <th>Link</th>
+      </tr>
+      <tr>
+        <td>City Sights</td>
+        <td>A tourism app that helps users explore cities with integrated maps and places of interest.</td>
+        <td><a href="https://github.com/yourusername/city-sights" target="_blank">GitHub Repo</a></td>
+      </tr>
+      <tr>
+        <td>Kitchen Buddy</td>
+        <td>A recipe management app with search, favorites, and ingredient tracking features.</td>
+        <td><a href="https://github.com/yourusername/kitchen-buddy" target="_blank">GitHub Repo</a></td>
+      </tr>
+    </table>
   </div>
 
   <div class="section">
@@ -39,3 +55,4 @@
   </div>
 </body>
 </html>
+
