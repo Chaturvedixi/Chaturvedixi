@@ -1,41 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My iOS Intern Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #007aff;
-    }
-    a {
-      color: #007aff;
-      text-decoration: none;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    .project {
-      margin-bottom: 20px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Hi, I'm [Your Name] 👋</h1>
+
+  <h1>Hi, I'm Anubhav Chaturvedi 👋</h1>
   <p>I'm an aspiring iOS developer passionate about building beautiful and functional apps using Swift and SwiftUI. I'm currently seeking internship opportunities where I can learn, grow, and contribute!</p>
 
   <div class="section">
     <h2>📱 Projects</h2>
     <div class="project">
-      <h3>Expense Tracker</h3>
+      <h3>City Sights</h3>
       <p>A simple iOS app to track your daily expenses. Built with SwiftUI and CoreData.</p>
       <a href="https://github.com/yourusername/expense-tracker" target="_blank">GitHub Repo</a>
     </div>
