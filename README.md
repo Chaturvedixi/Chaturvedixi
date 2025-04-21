@@ -38,14 +38,9 @@
 
   <div class="section">
     <h2>📬 Contact Me</h2>
-    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">@yourusername</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank">linkedin.com/in/yourname</a></p>
-  </div>
-
-  <div class="section">
-    <h2>⚡ Fun Fact</h2>
-    <p>I debug with snacks and believe even error messages can be beautiful.</p>
+    <p>Email: <a href="mailto:your.email@example.com">your.chaturvedixi@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">@chaturvedixi</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank">linkedin.com/in/chaturvedixi</a></p>
   </div>
 </body>
 </html>
