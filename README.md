@@ -38,9 +38,9 @@
 
   <div class="section">
     <h2>📬 Contact Me</h2>
-    <p>Email: <a href="chaturvedixi@gmail.com">chaturvedixi@gmail.com</a></p>
+    <p>Email: <a href="mailto:chaturvedixi@gmail.com">chaturvedixi@gmail.com</a></p>
     <p>GitHub: <a href="https://github.com/chaturvedixi" target="_blank">@chaturvedixi</a></p>
-    <p>LinkedIn: <a href="www.linkedin.com/in/chaturvedixi" target="_blank">linkedin.com/in/chaturvedixi</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/chaturvedixi" target="_blank">linkedin.com/in/chaturvedixi</a></p>
   </div>
 </body>
 </html>
