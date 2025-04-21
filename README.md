@@ -23,12 +23,6 @@
       <div class="project-title">City Sights</div>
       <div class="project-description">A tourism app that helps users explore cities with integrated maps and places of interest.</div>
       <div class="project-link"><a href="https://github.com/yourusername/city-sights" target="_blank">GitHub Repo</a></div>
-    </div>
-    <div class="project-card">
-      <div class="project-title">Kitchen Buddy</div>
-      <div class="project-description">A recipe management app with search, favorites, and ingredient tracking features.</div>
-      <div class="project-link"><a href="https://github.com/yourusername/kitchen-buddy" target="_blank">GitHub Repo</a></div>
-    </div>
   </div>
 
   <div class="section">
