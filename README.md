@@ -27,7 +27,7 @@
 
   <div class="section">
     <h2>📄 Resume</h2>
-    <p><a href="https://your-link.com/resume.pdf" target="_blank">View My Resume</a></p>
+    <p><a href="https://docs.google.com/document/d/1Ctldz9QYbRWy7Rd_xJkZD2OZGhwm2nS-tvHGbrLn5I0/edit?usp=sharing" target="_blank">View My Resume</a></p>
   </div>
 
   <div class="section">
